@@ -11,8 +11,28 @@ html{
     text-align: center;
 }
 
-#link{
+.link{
     color: aquamarine;
     font-size: 16px;
+}
+
+.title{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+}
+
+.description{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.copyright{
+    text-align: right;
+    color: gray;
 }
 
