@@ -1,0 +1,18 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+#header-title{
+    color: white;
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+#link{
+    color: aquamarine;
+    font-size: 16px;
+}
+
